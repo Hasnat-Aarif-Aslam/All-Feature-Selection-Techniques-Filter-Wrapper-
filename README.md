@@ -1,4 +1,3 @@
-Hi, My name is Hasnat Aarif Aslam.
-In this repository i have tried to apply Feature Selection Techniques. It includes Filter and Wrapper based techniques. In the beginning of the file, Feature Importance is also done to highlight it's importance.
-I hope you will like it! 
-Don't forget to fork and give a star!
+Hi, my name is Hasnat Aarif Aslam.
+In this repository, I have applied Feature Selection techniques, including both filter and wrapper-based methods. Additionally, Feature Importance analysis is conducted at the beginning of the file to highlight its significance.
+I hope you will find it helpful! Don't forget to fork and give a star!​
